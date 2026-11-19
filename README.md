@@ -5,7 +5,7 @@ Simple userscript to list your starred repositories
 Install it in Tampermonkey or Violentmonkey by [opening the file](https://github.com/dodog/starred-repo-list/raw/refs/heads/main/starred-repo-list.user.js), or by pasting it into a new script.
 
 ## What it does
-On any github.com page, a **★ List my stars** button appears in the bottom-right corner. Clicking it fetches all your starred repos and shows them in a panel, alphabetically sorted and linked to its page.
+On any github.com page, a **★ List my stars** button appears next to the Github search field. Clicking it fetches all your starred repos and shows them in a panel, alphabetically sorted and linked to its page.
 
 ## How to use
 - **Live filtering**: the list narrows as you type
